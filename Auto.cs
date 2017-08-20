@@ -8,4 +8,7 @@ public class Auto
 		String marca = "";
 		String modelo="";
 	}
+	public void ListarTodos()
+	{
+	}
 }
