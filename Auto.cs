@@ -20,7 +20,7 @@ public class Auto
 	{
 	}
 
-	public void Actualizar()
+	public void Actualizar(int idAuto)
 	{
 
 	}
