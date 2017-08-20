@@ -12,8 +12,11 @@ public class Auto
 	{
 		
 	}
-}
+
 	public void ListarTodos()
+	{
+	}
+	public void Eliminar()
 	{
 	}
 }
