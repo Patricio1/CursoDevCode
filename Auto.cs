@@ -7,4 +7,8 @@ public class Auto
 		String marca = "";
 		String modelo="";
 	}
+	public int RegistrarAuto()
+	{
+		
+	}
 }
