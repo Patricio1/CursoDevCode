@@ -8,9 +8,9 @@ public class Auto
 		String marca = "";
 		String modelo="";
 	}
-	public int RegistrarAuto()
+	public int RegistrarAuto(int id)
 	{
-		
+		return (id>0?true:false);
 	}
 
 	public void ListarTodos()
@@ -28,4 +28,5 @@ public class Auto
 	{
 		
 	}
+
 }
