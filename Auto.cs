@@ -19,4 +19,13 @@ public class Auto
 	public void Eliminar()
 	{
 	}
+
+	public void Actualizar()
+	{
+
+	}
+	public void BuscarPorId()
+	{
+		
+	}
 }
